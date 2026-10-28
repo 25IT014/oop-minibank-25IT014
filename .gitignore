@@ -1,0 +1,26 @@
+# Compiled Java files
+*.class
+
+# Build output
+out/
+build/
+
+# Runtime account data and transaction logs
+data/
+
+# Generated reports
+reports/
+*.report
+*.csv
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
